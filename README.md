@@ -4,7 +4,7 @@ As an individual fascinated by the e-commerce landscape, I've always been intrig
 # **Project Overview:**
 The Dream2000 Products Scraper is a Python-based web scraping tool designed to systematically collect product information from the Dream2000 e-commerce website. The primary goal is to create a detailed dataset containing product categories, subcategories, links, images, prices, descriptions, and additional specifications. The scraper is developed to handle dynamic web pages, ensuring accurate and efficient extraction even from pages with asynchronous content loading.
 
-Tools and Technologies Used:
+# **Tools and Technologies Used:**
 The Dream2000 Products Scraper leverages several tools and technologies to achieve its goals:
 
 1. Python: The entire project is implemented using the Python programming language, providing a versatile and robust foundation for web scraping and data processing.
